@@ -1,0 +1,15 @@
+{
+  "name": "claude-vision",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Static site'",
+    "cap:add": "npx cap add android",
+    "cap:sync": "npx cap sync android",
+    "cap:copy": "npx cap copy android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0"
+  }
+}
