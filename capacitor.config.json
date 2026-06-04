@@ -1,0 +1,10 @@
+{
+  "appId": "com.claude.vision",
+  "appName": "Claude Vision",
+  "webDir": ".",
+  "android": {
+    "buildOptions": {
+      "releaseType": "APK"
+    }
+  }
+}
